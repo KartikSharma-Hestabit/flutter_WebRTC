@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "345408041107",
+    "project_id": "flutter-rtc-3df60",
+    "storage_bucket": "flutter-rtc-3df60.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345408041107:android:57d821c3ad5b5a0b571d66",
+        "android_client_info": {
+          "package_name": "com.example.flutter_rtc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv_S4jeNpOaUPHj0Zd2CHf-rnVA4yF-lU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
